@@ -23,6 +23,8 @@ This tool allows you to install/uninstall the following plugins with one click(o
 - PSVita USB streaming! (UVC USB Video Class) by xerpi
 - DSmotion
 - VitaGrafix
+# install font
+remane you font file to font.pgf or font.ttf, then copy it to UX0:data/AUTOPLUGIN/font/ folder.
 # Credits:
  Thank you
 - Team OneLua
